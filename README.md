@@ -1,4 +1,4 @@
-# CBinary-Classification-with-Feed-Forward-Neural-Networks-in-PyTorch
+# Binary-Classification-with-Feed-Forward-Neural-Networks-in-PyTorch
 
 ## Project Overview
 In this project, we implemented a Feed-Forward Neural Network (FFNN) for binary classification tasks on datasets like XOR, center_surround, two_gaussians, and spiral. We used PyTorch to train the model with two different loss functions: Multi-Class Cross Entropy (MCE) and Mean Squared Error (MSE). The goal was to tune the model, visualize the decision boundaries, and explore the effects of regularization.
